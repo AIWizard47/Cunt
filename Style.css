@@ -176,3 +176,14 @@ span {
 .img3:hover{
   transform: translateY(-4vh);
 }
+.image1 img{
+  border-style:solid;
+  border-radius: 20px;
+  margin-left: 20vh;
+  margin-top: 10vh;
+  width: 45vh;
+  height: auto;
+  box-shadow: 2px 3px 15px #ff02cc;
+  transition: 0.6s;
+  cursor: pointer;
+}
